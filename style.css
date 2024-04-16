@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(./travel-and-tourism-background-with-famous-world-landmarks-in-3d-realistic-and-sketch-drawing-elements-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+nav{
+    padding: 35px;
+    height: 35px;
+    color: white;
+}
+.navbar ul{
+    overflow: hidden;
+}
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 5px 25px;
+}
+nav .logo{
+    float: right;
+}
+
+.HOME{
+    color: white;
+    text-decoration: none;
+}
+.CATEGORY{
+    color: white;
+    text-decoration: none;
+}
+.CONTACT{
+    color: white;
+    text-decoration: none;
+}
+.ABOUT{
+    color: white;
+    text-decoration: none;
+}
+.HOME:hover{
+    color: black;
+}
+.CATEGORY:hover{
+    color: black;
+}
+.CONTACT:hover{
+    color: black;
+}
+.ABOUT:hover{
+    color: black;
+}
+
+   
